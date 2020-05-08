@@ -63,7 +63,7 @@ def predict():
 
 
 
-# if we deploy on cloud like aws (not for heroku)
+# if we deploy on cloud like aws 
 #if __name__ == '__main__':
 #	app.run(host = '0.0.0.0' , port = 8080)
 	
@@ -71,8 +71,8 @@ def predict():
 	
 
 # if we deploy it on our local server then use this
-if __name__ == '__main__':
-	app.run(debug=True)
+#if __name__ == '__main__':
+#	app.run(debug=True)
 
 
 
