@@ -6,7 +6,6 @@
  I HAVE TAKEN ALL THE DATA SET  FROM QUICK DRAW GAME .
  I HAVE ALSO USED FLASK , WHICH HELP ME TO DEPLOY MY MODEL ON LOCAL SERVER AS WELL AS ON AMAZON WEB SERVICE (AWS)
  
- [![Drawing-Recognition-Model](https://img.youtube.com/vi/sBrdBLHIPOE/0.jpg)](https://www.youtube.com/watch?v=sBrdBLHIPOE)
  
 
  
